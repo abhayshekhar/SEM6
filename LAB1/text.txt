@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Vestibulum quis orci ac nisl iaculis lobortis eget et libero.
-Integer ut elit pharetra, mattis ex molestie, consequat mauris.
-Vestibulum consectetur justo eu scelerisque faucibus.
-Aenean aliquam sem vitae mauris pharetra, id pulvinar ligula egestas.
-Maecenas fermentum sapien sed maximus tincidunt.
-Curabitur ac lacus eget felis hendrerit pharetra ut ac turpis.
-Praesent eu massa eu metus scelerisque ullamcorper.
-Maecenas pellentesque justo et libero vestibulum finibus.
