@@ -1,0 +1,10 @@
+
+use this command when you are getting problem in updating android studio saying use as privileged user to opt/android-studio***
+type following in terminal
+sudo chown -R $USER:$USER /opt/android-studio
+then from help->check updates
+then download the update and install
+
+
+or refer to for details****
+http://bjubuntu.blogspot.com/2017/11/studio-does-not-have-write-access-to.html
